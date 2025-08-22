@@ -1,4 +1,4 @@
-# 🚀 AI Mock Interview - AI-Powered Interview Practice Platform
+#  AI Mock Interview - AI-Powered Interview Practice Platform
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react" alt="React 18.3.1" />
@@ -16,46 +16,46 @@
 <br />
 
 <div align="center">
-  <h3>🎯 Master Your Technical Interviews with AI-Powered Practice Sessions</h3>
+  <h3> Master Your Technical Interviews with AI-Powered Practice Sessions</h3>
   <p>Practice with AI-generated questions, get instant feedback, and boost your confidence to ace any technical interview.</p>
 </div>
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🤖 **AI-Powered Question Generation**
+###  **AI-Powered Question Generation**
 - **Role-specific questions** generated using Google Gemini AI
 - **Experience-level customization** for personalized practice
 - **Tech stack targeting** for relevant technical questions
 - **Dynamic question bank** that adapts to your needs
 
-### 🎤 **Voice-Based Practice**
+###  **Voice-Based Practice**
 - **Natural speech recognition** for realistic interview simulation
 - **Real-time transcription** of your answers
 - **Webcam preview** (optional, no recording)
 - **Practice anywhere, anytime** with your microphone
 
-### 📊 **Instant AI Feedback**
+###  **Instant AI Feedback**
 - **Detailed analysis** of your responses
 - **1-10 rating system** with actionable insights
 - **Comparison with expected answers** for learning
 - **Personalized improvement suggestions**
 
-### 📈 **Progress Tracking**
+###  **Progress Tracking**
 - **Performance analytics** over time
 - **Interview history** and results
 - **Skill development insights** 
 - **Dashboard with comprehensive overview**
 
-### 🔐 **Secure Authentication**
+###  **Secure Authentication**
 - **Clerk-powered authentication** with social login options
 - **User data protection** and privacy
 - **Secure API endpoints** for all interactions
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - **React 18** - Modern React with hooks and concurrent features
@@ -81,7 +81,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### **Prerequisites**
 - Node.js 18+ 
@@ -139,7 +139,7 @@
 
 ---
 
-## 📱 Usage
+##  Usage
 
 ### **1. Create Your Interview**
 - Navigate to `/generate/create`
@@ -158,7 +158,7 @@
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 src/
@@ -177,7 +177,7 @@ src/
 
 ---
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 ```bash
 # Development
@@ -196,7 +196,7 @@ npm run test:watch       # Run tests in watch mode
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 ### **Firebase Hosting (Recommended)**
 ```bash
@@ -233,7 +233,7 @@ npm run build
 
 ---
 
-## 🔒 Environment Variables
+##  Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
@@ -248,7 +248,7 @@ npm run build
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions! Please follow these steps:
 
@@ -271,7 +271,6 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 ##  Acknowledgments
 
 - **Google Gemini AI** for intelligent question generation
@@ -290,7 +289,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: jaiswaldivyanshu2311@gmail.com
 
 ---
-
 <div align="center">
   <p>Made with love by Divyanshu Jaiswal</p>
   <p>Star this repository if you find it helpful! </p>

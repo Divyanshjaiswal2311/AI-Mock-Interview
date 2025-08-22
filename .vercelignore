@@ -1,0 +1,34 @@
+# Ignore pnpm files to force npm usage
+pnpm-lock.yaml
+pnpm-workspace.yaml
+
+# Ignore other package managers
+yarn.lock
+yarn-error.log
+
+# Ignore development files
+.env.local
+.env.development
+.env.test
+
+# Ignore build artifacts
+dist/
+build/
+
+# Ignore logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
