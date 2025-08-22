@@ -272,7 +272,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Google Gemini AI** for intelligent question generation
 - **Clerk** for seamless authentication
@@ -282,18 +282,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
+##  Support
 
-- **Documentation**: [Project Wiki](https://github.com/yourusername/ai-mock-interview/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ai-mock-interview/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ai-mock-interview/discussions)
-- **Email**: hello@aimockinterview.com
+- **Documentation**: [Project Wiki](https://github.com/Divyanshujaiswal2311/ai-mock-interview/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Divyanshujaiswal2311/ai-mock-interview/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Divyanshukjaiswal2311/ai-mock-interview/discussions)
+- **Email**: jaiswaldivyanshu2311@gmail.com
 
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the AI Mock Interview Team</p>
-  <p>Star this repository if you find it helpful! ⭐</p>
+  <p>Made with love by Divyanshu Jaiswal</p>
+  <p>Star this repository if you find it helpful! </p>
 </div>
 
 
