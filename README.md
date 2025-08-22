@@ -30,7 +30,7 @@
 - **Tech stack targeting** for relevant technical questions
 - **Dynamic question bank** that adapts to your needs
 
-### 🎤 **Voice-Based Practice**
+###  **Voice-Based Practice**
 - **Natural speech recognition** for realistic interview simulation
 - **Real-time transcription** of your answers
 - **Webcam preview** (optional, no recording)
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 - **React 18** - Modern React with hooks and concurrent features
@@ -158,7 +158,7 @@
 
 ---
 
-## 🏗 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -177,7 +177,7 @@ src/
 
 ---
 
-## 🔧 Available Scripts
+##  Available Scripts
 
 ```bash
 # Development
