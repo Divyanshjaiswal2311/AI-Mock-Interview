@@ -1,5 +1,5 @@
 #  AI Mock Interview - AI-Powered Interview Practice Platform
-DemoLink = https://vercel.com/divyanshu-jaiswals-projects-e940d47a/ai-mock-interview
+DemoLink =https://ai-mock-interview-six-alpha.vercel.app/
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-18.3.1-blue?style=for-the-badge&logo=react" alt="React 18.3.1" />
